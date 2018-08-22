@@ -37,19 +37,20 @@
 
 
 
-# 2.Mes Passions
+# 2.Savoir ce qu'il ce passe sur le reseau
 >
-## Dans la vie j'ai trois passion
+## netstat est un tres bon outils de monitoring
 
-	 * Ma femme	 
-	 * L'informatique et la programmation
-	 * La musique electronique et la sono
+	 * netstat -l
+
+*pour lister les port*
+	
+	* netstat -lntu
+* TODO *		 
 
 
-# 3.Mes hobbies
+----
 
->
-## Pour me detendre je fais souvent de la veille ou je joue au jeux video
+## La page sera alimenter au fur et a mesure si vous souhaiter participer merci d'envoyer un mail a l'adresse suivant:
 
-	* feedly pour la veille
-	* pc , xbox360 et raspberrypi pour le gaming et le retrogaming
+[redfishaw@gmail.com](redfishaw@gmail.com)
