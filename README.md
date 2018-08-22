@@ -2,14 +2,14 @@
 
 ### Ce n'est pas parce que vous ne savez pas vous servire d'un marteau qu'il faut planter des clous au tournevis !!!
 
-						############################
-						#       Dr.redfish         #
-						#       Developper	   #
-						#       -----------        #
-						#       Verison : 0.1.0    #
-						############################
+				############################
+				#       Dr.redfish         #
+				#       Developper	   #
+				#       -----------        #
+				#       Verison : 0.1.0    #
+				############################
 
-![Shambhalafm](http://shambhalafm.fr/tmp/images/default.png)
+
 
 
 # 1.Connaitre son materiel 
