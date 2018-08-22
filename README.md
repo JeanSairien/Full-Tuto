@@ -2,14 +2,14 @@
 
 ### Ce n'est pas parce que vous ne savez pas vous servire d'un marteau qu'il faut planter des clous au tournevis !!!
 
-						############################
-						#       Dr.redfish         #
-						#       Developper	   #
-						#       -----------        #
-						#       Verison : 0.1.0    #
-						############################
+					############################
+					#       Dr.redfish         #
+					#       Developper	   #
+					#       -----------        #
+					#       Verison : 0.1.0    #
+					############################
 
-
+----
 
 
 # 1.Connaitre son materiel 
@@ -24,18 +24,19 @@
 
 >	xrandr 
 
-
+----
 
 ## Connaitre les informations sur le processeur , la mémoire
 
 >	cat /proc/cpuinfo
 
+----
 
 ## Connaitre la distribution   
 
 >	lsb_release  -a
 
-
+----
 
 # 2.Savoir ce qu'il ce passe sur le reseau
 >
@@ -50,6 +51,7 @@
 
 
 ----
+
 
 ## La page sera alimenter au fur et a mesure si vous souhaiter participer merci d'envoyer un mail a l'adresse suivant:
 
