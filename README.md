@@ -62,10 +62,11 @@
 ## Le python est un language serveur tres puissant et multi usage
 ### voici quelques liens:
 [La doc officiel](https://docs.python.org/fr/3.5/tutorial/appetite.html)
-**La documentation officiel et plutot bien faite **
+**La documentation officiel et plutot bien faite**
 
 [apprendre python](http://apprendre-python.com/)
 **Plutot claire et en francais**
+
 [tutoriel interactif en ligne](https://www.learnpython.org/)
 **Bien qu'en anglais cette plateforme est tres bien faite et interactive**
 
@@ -75,6 +76,7 @@
 ## La page sera alimenter au fur et a mesure si vous souhaiter participer merci d'envoyer un mail a l'adresse suivant:
 
 # Vendors. Retrouvez sur ce depots des liens pour divers ressources et domaines
+
 [link-utils sur github](https://github.com/JeanSairien/link-utils)
 **Ce dépot est mise a jours de temps en temps n'hesitez pas a aller y faire un tours régulierement et a me soumettre par email vos liens, merci**
 
