@@ -75,9 +75,8 @@
 
 
 # Vendors. Retrouvez sur ce depots des liens pour divers ressources et domaines
-
-[link-utils sur github](https://github.com/JeanSairien/link-utils)
-**Ce dépot est mise a jours de temps en temps n'hesitez pas a aller y faire un tours régulierement et a me soumettre par email vos liens, merci**
+>	[link-utils sur github](https://github.com/JeanSairien/link-utils)
+	**Ce dépot est mise a jours de temps en temps n'hesitez pas a aller y faire un tours régulierement et a me soumettre par email vos liens, merci**
 
 
 ## La page sera alimenter au fur et a mesure si vous souhaiter participer merci d'envoyer un mail a l'adresse suivant:
