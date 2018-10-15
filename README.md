@@ -73,7 +73,6 @@
 [tuto.com(video)](https://fr.tuto.com/python/gratuit-python-les-bases-pour-debutant-python,46272.html)
 **tuto de base avec une video**
 
-## La page sera alimenter au fur et a mesure si vous souhaiter participer merci d'envoyer un mail a l'adresse suivant:
 
 # Vendors. Retrouvez sur ce depots des liens pour divers ressources et domaines
 
@@ -81,4 +80,5 @@
 **Ce dépot est mise a jours de temps en temps n'hesitez pas a aller y faire un tours régulierement et a me soumettre par email vos liens, merci**
 
 
+## La page sera alimenter au fur et a mesure si vous souhaiter participer merci d'envoyer un mail a l'adresse suivant:
 [redfishaw@gmail.com](redfishaw@gmail.com)
