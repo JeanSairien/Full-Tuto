@@ -9,14 +9,38 @@
 					#       Verison : 0.1.0    #
 					############################
 
+----
 
+#La Base
 
+## vous desirez apprendre les bases du web voiçi quelques endroits sympas a visité
+
+[OpenClassRoom](https://openclassrooms.com/fr/)
+
+**des tutoriels web en français**
+
+[W3school](https://www.w3schools.com/)
+
+**des tutoriels web en anglais**
+
+_Pas de panique pour l'englais les tuto sont super bien fait_
+
+## vous preferez la video et bien pas de soucis 
+
+[Anthony Welc](https://www.youtube.com/channel/UChhPkjgG1-iLUOmURGdgQrw)
+**surtout javascript et nouvelle technologies**
+
+[Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ)
+**pas mal front et aussi mobile**
+
+[GravenDev](https://www.youtube.com/channel/UCIHVyohXw6j2T-83-uLngEg)
+**pas mal de mobile mais autres petit truc sympas**
 
 
 ----
 
 
-# 1.Connaitre son materiel 
+# Connaitre son materiel 
 
 ----
 ## Identifier sa carte graphique
@@ -42,7 +66,7 @@
 
 ----
 
-# 2.Savoir ce qu'il ce passe sur le reseau
+# Savoir ce qu'il ce passe sur le reseau
 >
 ## netstat est un tres bon outils de monitoring
 
@@ -57,7 +81,7 @@
 
 ----
 
-# 3.Apprendre le language PYTHON version 3
+# Apprendre le language PYTHON version 3
 >
 ## Le python est un language serveur tres puissant et multi usage
 ### voici quelques liens:
