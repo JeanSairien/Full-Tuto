@@ -6,11 +6,10 @@
 					#       Dr.redfish         #
 					#       Developper	   #
 					#       -----------        #
-					#       Verison : 0.1.0    #
+					#       Version : 0.1.0    #
 					############################
 
-
-
+----
 
 # La Base
 
@@ -39,11 +38,11 @@ _Pas de panique pour l'englais les tuto sont super bien fait_
 [GravenDev](https://www.youtube.com/channel/UCIHVyohXw6j2T-83-uLngEg)
 **pas mal de mobile mais autres petit truc sympas**
 
+[CodeAcademy.com](https://www.codecademy.com/)
+**Des petits exo , sympas et en francais**
 
 ----
 
-
-----
 
 
 # Connaitre son materiel 
