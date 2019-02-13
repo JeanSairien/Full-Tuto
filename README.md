@@ -15,7 +15,7 @@
 
 ----
 
-## vous desirez apprendre les bases du web voiçi quelques endroits sympas a visité
+## vous desirez apprendre les bases du web voici quelques endroits sympas a visité
 
 [OpenClassRoom](https://openclassrooms.com/fr/)
 
